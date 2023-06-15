@@ -1,3 +1,9 @@
+body {
+  background-color: lightgrey;
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
 .widget {
   display: grid;
 /*  grid-template-columns: auto 160px auto; */
